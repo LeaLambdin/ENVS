@@ -7,6 +7,10 @@
 
 ## Data and File Information
 
+- describe the files corresponding to data
+- describe the files corresponding to code
+- (optional but nice) provide a tree diagram 
+
 ## Rendered Output
 
 
